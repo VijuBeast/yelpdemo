@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+.Cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
